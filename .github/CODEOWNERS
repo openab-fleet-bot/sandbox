@@ -1,0 +1,4 @@
+# Every change needs review from the human operator.
+# The fleet bots all push as one machine account, and GitHub blocks self-approval,
+# so a bot can never satisfy this requirement.
+* @antigenius0910
